@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🎓 I'm a third-year undergraduate student(CS) at Huazhong University of Science and Technology.
+- 🔭 I’m currently working on Chinasys(Do some research on kv storage).
+- 🌱 I’m currently learning database, distributed system, C++ and kv storage.
+- :octocat: I’ m currently doing some labs like cmu-15445. I previously completed some labs like tinykv.
+- 🤔 I’m looking for help with kv storage and C++.
+- 📫 How to reach me: yx7hust@gmail.com.
 
 <!--
 **ysjyx7/ysjyx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
