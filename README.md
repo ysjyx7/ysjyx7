@@ -3,7 +3,7 @@
 - 🔭 I' m currently working on Chinasys(Do some research on kv storage).
 - 🌱 I' m currently learning database, distributed system, C++ and kv storage.
 - 🤔 I' m looking for help with kv storage and C++.
-- 📫 How to reach me: yx7hust@gmail.com.
+- 📫 How to reach me: y777x7@hust.edu.cn.
 
 <!--
 **ysjyx7/ysjyx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
