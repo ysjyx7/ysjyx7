@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 I' m a third-year undergraduate student(CS) at Huazhong University of Science and Technology.
-- 🔭 I' m currently working on Chinasys(Do some research on kv storage).
+- 🔭 I' m currently working in Chinasys(Do some research on kv storage).
 - 🌱 I' m currently learning database, distributed system, C++ and kv storage.
 - 🤔 I' m looking for help with kv storage and C++.
 - 📫 How to reach me: y777x7@hust.edu.cn.
