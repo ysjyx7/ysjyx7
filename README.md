@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🎓 I' m a forth-year undergraduate student(CS) at Huazhong University of Science and Technology.
-- 🔭 I' m currently working in OceanBase(Do some research on VectorDB).
-- 🌱 I' m currently learning database and MLSys.
-- 🤔 I' m looking for help with MLSys.
-- 📫 How to reach me: yangx7@mail.ustc.edu.cn.
+- 🎓 CS Master's student at USTC, CS undergrad from HUST (2020-2024).
+- 🔬 Interning at Zhongguancun AI Research Institute.
+- 💼 Previously interned at ByteDance (RecSys infra) and OceanBase (multimodal & vector DB).
+- 🌱 Exploring AI Agent.
+- 📫 How to reach me: yangx7@mail.ustc.edu.cn
 
 <!--
 **ysjyx7/ysjyx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
