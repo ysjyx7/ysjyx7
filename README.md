@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🎓 CS Master's student at USTC, CS undergrad from HUST (2020-2024).
-- 🔬 Interning at Zhongguancun AI Research Institute.
-- 💼 Previously interned at ByteDance (RecSys infra) and OceanBase (multimodal & vector DB).
+- 🔬 Interning at [Zhongguancun AI Research Institute](http://www.bjzgca.edu.cn/).
+- 💼 Previously interned at ByteDance (RecSys infra) and OceanBase (Multimodal & Vector DB).
 - 🌱 Exploring AI Agent.
 - 📫 How to reach me: yangx7@mail.ustc.edu.cn
 
