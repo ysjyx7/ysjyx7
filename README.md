@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🎓 CS Master's student at USTC, CS undergrad from HUST (2020-2024).
+- 🎓 CS Master's student at USTC.
 - 🔬 Interning at [Zhongguancun AI Research Institute](http://www.bjzgca.edu.cn/).
 - 💼 Previously interned at ByteDance (RecSys infra) and OceanBase (Multimodal & Vector DB).
 - 🌱 Exploring AI Agent.
