@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🎓 CS Master's student at USTC.
-- 🔬 Interning at [Zhongguancun AI Research Institute](http://www.bjzgca.edu.cn/).
-- 💼 Previously interned at ByteDance (RecSys infra) and OceanBase (Multimodal & Vector DB).
+- 🔬 Interning at Yunjue Tech(Multi Agent system & self evolving agent).
+- 💼 Previously interned at ByteDance (RecSys infra), OceanBase (Multimodal & Vector DB) and [Zhongguancun AI Research Institute](http://www.bjzgca.edu.cn/)(RAG & GUI Agent & vla).
 - 🌱 Exploring AI Agent.
 - 📫 How to reach me: yangx7@mail.ustc.edu.cn
 
